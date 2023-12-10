@@ -1,0 +1,25 @@
+Welcome to Nigerian Breweries plc,
+These are our High-Quality Categories of Drinks 
+
+Under Lager drinks:
+
+33 export
+Desperados
+Goldberg
+Gulder
+Heineken
+Star
+
+Under Stout drinks:
+
+Legend
+Turbo king
+Williams
+
+Under non-alcoholic drinks:
+
+Maltina
+Amstel malt
+Malta Gold
+Fayrouz
+
